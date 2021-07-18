@@ -128,8 +128,7 @@ class TegakiApp extends React.Component {
           .end((err, res) => {
               if (err) return
               if (res.body.status) {
-                // ステート変数を更新する。
-                this.setState({label: res.body.label})
+                   this.setState({label: res.body.label})
               }
           });
     }
