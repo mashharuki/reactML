@@ -1,0 +1,25 @@
+{
+  "name": "reactML",
+  "version": "1.0.0",
+  "description": "ReactとNode.jsと機械学習を組み合わせたアプリケーションのリポジトリです。",
+  "main": "1-download.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mashharuki/reactML.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mashharuki/reactML/issues"
+  },
+  "homepage": "https://github.com/mashharuki/reactML#readme",
+  "dependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.8",
+    "@babel/preset-react": "^7.14.5"
+  }
+}
